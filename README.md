@@ -4,6 +4,19 @@ This repository contains Java solutions to a variety of practical programming ch
 
 ---
 
+## Table of Contents
+1. [Documentation](#documentation)
+2. [Challenges and Solutions](#challenges-and-solutions)
+3. [How to Run](#how-to-run)
+
+---
+
+## Documentation
+
+For a detailed explanation of the challenges, solutions, and additional insights, check out the [documentation here](https://docs.google.com/document/d/e/2PACX-1vSbIo6EJRKUfECXRqu-hc6tEo2rB3DSyOf85IKt8I1Pepd3bWnfo6ln9IY7wQ4ShqAY8-yqQuHvL-G8/pub).
+
+---
+
 ## Challenges and Solutions
 
 ### 01 - Find the Second Highest CGPA
